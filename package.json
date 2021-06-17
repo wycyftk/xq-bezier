@@ -1,0 +1,27 @@
+{
+  "name": "xq-bezier",
+  "version": "1.0.6",
+  "description": "贝塞尔曲线工具",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "scripts": {
+    "build": "rm -rf ./dist && rollup -c rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wycyftk/xq-bezier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wycyftk/xq-bezier/issues"
+  },
+  "homepage": "https://github.com/wycyftk/xq-bezier#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.4",
+    "rollup": "^2.50.6",
+    "rollup-plugin-babel": "^4.4.0"
+  }
+}
