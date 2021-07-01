@@ -1,6 +1,6 @@
 {
   "name": "xq-bezier",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "贝塞尔曲线工具",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -17,7 +17,9 @@
     "url": "https://github.com/wycyftk/xq-bezier/issues"
   },
   "homepage": "https://github.com/wycyftk/xq-bezier#readme",
-  "dependencies": {},
+  "dependencies": {
+    "jsdoc": "^3.6.7"
+  },
   "devDependencies": {
     "@babel/core": "^7.14.3",
     "@babel/preset-env": "^7.14.4",

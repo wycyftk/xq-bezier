@@ -1,6 +1,6 @@
 ## xq-bezier
 
-贝塞尔曲线工具库
+贝塞尔曲线工具库，[github地址](https://github.com/wycyftk/xq-bezier)
 
 ## 待办
 
